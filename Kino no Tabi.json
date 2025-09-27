@@ -5,6 +5,14 @@
   "author": "Sigsawa Keiichi",
   "cover": "https://www.nautiljon.com/images/manga/00/54/kino_no_tabi_-_the_beautiful_world_7545.webp?1600327103",
   "chapters": {
+    "1": {
+      "title": "Le pays des Adultes -Droit Naturels-",
+      "volume": "1",
+      "last_updated": "1759008752",
+      "groups": {
+        "Crimson Ravens": "/proxy/api/imgur/chapter/hsdHVyt"
+      }
+    },
     "0.5": {
       "title": "Perdus dans la forêt-B",
       "volume": "1",
