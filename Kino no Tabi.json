@@ -1,0 +1,17 @@
+{
+  "title": "Kino no Tabi",
+  "description": "Kino no Tabi raconte l'histoire du voyage d'une personne s'appelant Kino et de sa moto parlante se nommant Hermes.\nDurant ce voyage, les deux héros découvriront que le monde qui les entoure n'est pas si bien qu'il n'y parait, mais que paradoxalement ces défauts le rendent beau.",
+  "artist": "Shiomiya Iruka",
+  "author": "Sigsawa Keiichi",
+  "cover": "https://www.nautiljon.com/images/manga/00/54/kino_no_tabi_-_the_beautiful_world_7545.webp?1600327103",
+  "chapters": {
+    "0.5": {
+      "title": "0.5",
+      "volume": "1",
+      "last_updated": "1759008220",
+      "groups": {
+        "Crimson Ravens": "/proxy/api/imgur/chapter/QhxHhia"
+      }
+    }
+  }
+}
